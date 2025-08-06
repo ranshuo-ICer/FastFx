@@ -1,0 +1,25 @@
+# Python 相关
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+
+# PyInstaller 生成文件
+build/
+dist/
+*.spec
+
+# 日志文件
+*.log
+
+# 配置文件
+keymap.json
+
+# IDE 相关
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
